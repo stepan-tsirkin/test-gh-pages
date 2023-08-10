@@ -4,8 +4,10 @@
    table of contents
 
 
-Basics
-==========
+Hello world!
+==========+++
+
+
 
 .. toctree::
    :maxdepth: 2
